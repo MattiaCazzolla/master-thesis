@@ -1,3 +1,10 @@
 # ingore the dataset
 01_dataset_creation/Dataset
 
+# ignore ipynb checkpoints
+*.ipynb_checkpoints
+
+# ignore df due to sensible information
+02_dataset_analysis/data/clinical_data.csv
+02_dataset_analysis/data/patient_data.csv
+
