@@ -1,5 +1,6 @@
 # ingore the dataset
 01_dataset_creation/Dataset
+03_results_analysis/sorted
 
 # ignore ipynb checkpoints
 *.ipynb_checkpoints
@@ -7,4 +8,5 @@
 # ignore df due to sensible information
 02_dataset_analysis/data/clinical_data.csv
 02_dataset_analysis/data/patient_data.csv
+03_results_analysis/clinical_results.csv
 
